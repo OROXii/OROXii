@@ -4,9 +4,9 @@ Hi 👋 Welcome! I am OROXii, a Cross-Chain Blockchain Developer specializing in
 
 - 👋 Hi, I’m @OROXii, part of the Torox Labs team.
 - 👀 I’m interested in blockchain technologies, decentralized applications, and Web3 game development.
-- 🌱 I’m currently learning more about Zero-Knowledge Proofs (ZKPs) and integrating cryptography into game engines for enhanced security and privacy.
+- 🌱 I’m currently learning more about Layer Zero, and Secure, Safe, and reliable Cross-chain bridging technology, and also Zero-Knowledge Proofs (ZKPs) to enhanced security and privacy on tokens.
 - 💞️ I’m looking to collaborate on open-source Web3 frameworks and decentralized gaming platforms.
-- 📫 How to reach me: You can contact me via Email (support@torox.org) or through our Discord community [link to the Discord server].
+- 📫 How to reach me: You can contact me via Email or through our Discord community.
 - ⚡ Fun fact: We're currently building tools for developers to create fully decentralized, Web3-native games with P2P networking.
 
 ## 🛠  Technologies and tools
