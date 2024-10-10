@@ -48,10 +48,6 @@ Hi 👋 Welcome! I am OROXii, a Cross-Chain Blockchain Developer specializing in
 <h4 align="center">
 I have more than 8 years of experience in software, web, and app development, and 1+ years in 🔗<b>BLOCKCHAIN</b>🔗 Development. 
 <br /><br />
-👨‍💻As a creative and passionate developer, I am quick to learn new skills and stay updated with cutting-edge technologies, always delivering high-quality work.
-</br>
-💪My expertise spans cross-chain development, with a focus on Ethereum, Solana, Sui, and Layer Zero technologies. I specialize in building Smart Contracts across different blockchains and integrating Web3 seamlessly into decentralized applications (dApps).
-<br />
-🔥I am continuously improving my development process by integrating Zero-Knowledge Proofs (ZKPs) into blockchain games, ensuring privacy, security, and scalability in decentralized environments.
+🔥I am continuously improving my development process by integrating Zero-Knowledge Proofs (ZKPs) into smart contracts, ensuring privacy, security, and scalability in decentralized environments.
 </h4>
 <br />
